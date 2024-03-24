@@ -1,0 +1,26 @@
+[
+    {
+       "title":"网易游戏会员",
+       "img":"img/tab1.jpg",
+       "span":"会员外观、游戏礼包免费领",
+       "contact":"查看详情" 
+    },
+    {
+        "title":"网易游戏雷火",
+        "img":"img/tab2.png",
+        "span":"秋季校园招聘",
+        "contact":"查看详情" 
+     },
+     {
+        "title":"网易游戏平台",
+        "img":"img/tab3.jpg",
+        "span":"海量端游手游，跨平台即开即玩",
+        "contact":"查看详情" 
+     },
+     {
+        "title":"大神",
+        "img":"img/tab4.png",
+        "span":"找攻略，领福利",
+        "contact":"查看详情" 
+     }
+]

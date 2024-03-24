@@ -1,0 +1,48 @@
+[
+    {"txt":"热门饰品","img":"img/CS1.png","title":"印花|火车离站(全息)","price":"22.46","type":"CS:GO", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/CS2.png","title":"印花 | 蓝钻（闪耀）","price":"16.64","type":"CS:GO", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/CS3.png","title":"印花 | 一决雌雄（闪亮）","price":"37.3","type":"CS:GO", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/CS4.png","title":"USP 消音版 | 印花集 (略有磨损)","price":"990","type":"CS:GO", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/CS5.png","title":"截短霰弹枪 | 么么 (略有磨损)","price":"99.1","type":"CS:GO", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/CS6.png","title":"AK-47 | 可燃冰 (略有磨损)","price":"330","type":"CS:GO", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/CS7.png","title":"反冲武器箱","price":"8.7","type":"CS:GO", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/CS8.png","title":"安特卫普 2022 炼狱小镇纪念包","price":"13.64","type":"CS:GO", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/CS9.png","title":"AWP | 永恒之枪 (崭新出厂)","price":"50698","type":"CS:GO", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/CS10.png","title":"蝴蝶刀（★） | 伽玛多普勒 (崭新出厂)","price":"8897","type":"CS:GO", "bg":"img/bg.png"},
+  
+
+
+    {"txt":"热门饰品","img":"img/DT1.jpg","title":"无尽时光的宝藏","price":"22.46","type":"DOTA2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/DT2.jpg","title":"魔星后裔","price":"379","type":"DOTA2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/DT3.jpg","title":"盲目萨满的仆从","price":"12.4","type":"DOTA2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/DT4.jpg","title":"散魂之刃","price":"88.08","type":"DOTA2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/DT5.jpg","title":"辉羽征服者","price":"258.99","type":"DOTA2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/DT6.jpg","title":"死亡漫游者的灾祸","price":"197.9","type":"DOTA2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/DT7.jpg","title":"2021年啊哈利姆的纹章","price":"1150","type":"DOTA2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/DT8.jpg","title":"沉寂之踪","price":"51.4","type":"DOTA2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/DT9.jpg","title":"心渊魔角","price":"136.49","type":"DOTA2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/DT10.jpg","title":"霜泽密友高帽","price":"0.71","type":"DOTA2", "bg":"img/bg.png"},
+ 
+
+    {"txt":"热门饰品","img":"img/RUST1.png","title":"Spacesuit","price":"88.38","type":"RUST", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/RUST2.png","title":"Alien Red","price":"721.47","type":"RUST", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/RUST3.png","title":"Carrot Knife","price":"19.83","type":"RUST", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/RUST4.png","title":"Large Fireworks Pack","price":"27.2","type":"RUST", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/RUST5.png","title":"Whiteout Hoodie","price":"18.79","type":"RUST", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/RUST6.png","title":"Whireout Facemask","price":"17.9","type":"RUST", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/RUST7.png","title":"Blackout Chestplate","price":"16.69","type":"RUST", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/RUST8.png","title":"Big Grin","price":"3519","type":"RUST", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/RUST9.png","title":"Whiteout Kilt","price":"26.58","type":"RUST", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/RUST10.png","title":"Whiteout Pants","price":"12.9","type":"RUST", "bg":"img/bg.png"},
+
+    {"txt":"热门饰品","img":"img/Luck2.png","title":"曼恩公司供应箱钥匙","price":"11.05","type":"军事要塞2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/Luck3.png","title":"精炼金属","price":"0.24","type":"军事要塞2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/Luck5.png","title":"2019 冬季战绘箱","price":"0.02","type":"军事要塞2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/Luck4.png","title":"飞来横祸石匣","price":"0.18","type":"军事要塞2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/Luck1.png","title":"使命之旅入场券","price":"6.2","type":"军事要塞2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/Luck6.png","title":"Ellis的鸭舌帽","price":"0.31","type":"军事要塞2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/Luck7.png","title":"平底煎锅","price":"0.32","type":"军事要塞2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/Luck8.png","title":"职业杀手的手感","price":"0.04","type":"军事要塞2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/Luck9.png","title":"极限降落伞","price":"0.08","type":"军事要塞2", "bg":"img/bg.png"},
+    {"txt":"热门饰品","img":"img/Luck10.png","title":"噪音制造器 - 冬季节","price":"0.02","type":"军事要塞2", "bg":"img/bg.png"}
+]
